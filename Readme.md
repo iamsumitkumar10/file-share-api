@@ -105,8 +105,3 @@ secure-file-sharing/
   - Use environment variables for tokens and secrets.  
   - Consider integrating a user authentication system (JWT, OAuth).  
   - Add a decryption endpoint if needed.  
-
----
-
- 
-npm install dotenv
